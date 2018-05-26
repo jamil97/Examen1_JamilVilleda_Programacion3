@@ -14,6 +14,8 @@ Examen1_Programacion3::Examen1_Programacion3(){
 
 void Examen1_Programacion3::crearTablero(){
 
+	cout<<"EL METODO PARA VALIDAR SI SE COMO LA PIEZA ESTA PERO NO SE EJECUTA PORQUE VALIDE DEMASIADO.. PERO LA LOGICA ESTOY SEGURO QUE ESTA BIEN."
+
 	cout<<"              Damas Chinas"<<endl;
 
 	tableroJuego = new char* [8];
